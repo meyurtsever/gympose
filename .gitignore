@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files
+*.csv
+*.json
+*.pkl
+*.pickle
+dataset/
+data/
+TCF_DATASET/
+yoga_dataset/
+
+# Images and videos
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.mp4
+*.avi
+*.mov
+
+# Results and logs
+results/
+logs/
+runs/
+*.log
+*.txt.backup
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model checkpoints
+checkpoints/
+models/
+*.h5
+*.hdf5
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Easy ViTPose related
+easy_ViTPose/
+model/
+ckpts/
+
+# System files
+Thumbs.db
+.directory
