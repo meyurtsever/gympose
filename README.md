@@ -25,6 +25,8 @@ The GymPose dataset contains 16,782 annotated frames of six artistic gymnastics 
 - TCF Makasli Geyik Yarim (half scissor deer)
 - TCF Spagat (split)
 
+Download (public): [Kaggle – GymPose](https://www.kaggle.com/datasets/wenes394/gympose/)
+
 Each movement is divided into three temporal phases:
 - **Phase I**: Starting position
 - **Phase II**: Mid-movement
